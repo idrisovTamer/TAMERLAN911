@@ -1,4 +1,4 @@
-<h1 align="center">I'm <a href="https://t.me/@hirataru" target="_blank">Tamerlan</a></h1>
+<h1 align="center">I'm <a href="https://t.me/+79389899666" target="_blank">Tamerlan</a></h1>
 
 
 
@@ -14,7 +14,7 @@
 
 ## contacts:
    
-   [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/@hirataru) 
+   [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/+79389899666) 
    
   
    ## codewars profile:
