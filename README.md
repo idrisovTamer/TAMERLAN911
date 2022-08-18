@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">I'm Tamerlan frontend developer from Russia 🇷🇺</h3>
+<h3 align="center">I'm  frontend developer from Russia 🇷🇺</h3>
 <br>
 <br>
 <h1 align="left"> I write on JavaScript, React, Redux</h1>
